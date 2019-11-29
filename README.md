@@ -4,7 +4,7 @@ Make with Unity 2018.0.3b10
 Demo: http://bit.ly/2DtbNkE
 
 <br><br>
-This is not the source code, it's just cache, source code will be uploaded in the future.
+This is not the actual source code, it's just cache, source code will be uploaded in the future.
 <br><br><br>
 # Demo images:
 <br><br>
