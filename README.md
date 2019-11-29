@@ -10,15 +10,19 @@ This is not the source code, it's just cache, source code will be uploaded in th
 <br><br>
 <kbd>
 ![](demo1.png)
-  <kbd>
+  </kbd>
 
 <br><br>
+<kbd>
 ![](demo2.png)
+  </kbd>
 <br>
 
 
 <br><br>
 # I'm making this hand
 <br><br>
+<kbd>
 ![](handdemo.png)
+  </kbd>
 <br>
