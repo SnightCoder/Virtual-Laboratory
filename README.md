@@ -8,7 +8,7 @@ This is not the source code, it's just cache, source code will be uploaded in th
 <br><br><br>
 # Demo images:
 <br><br>
-<img src="demo1.png" width="48">
+<img src="demo1.png" width="100">
 <br>
 
 <br><br>
