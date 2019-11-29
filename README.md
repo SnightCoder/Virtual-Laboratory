@@ -19,5 +19,5 @@ Demo images:
 <br><br><br>
 I'm making this hand:
 <br><br>
-![](hand.png)
+![](handdemo.png)
 <br>
