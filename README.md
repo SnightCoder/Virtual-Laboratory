@@ -6,7 +6,7 @@ Demo: http://bit.ly/2DtbNkE
 <br><br>
 This is not the source code, it's just cache, source code will be uploaded in the future.
 <br><br><br>
-Demo images:
+#Demo images:
 <br><br>
 ![](demo1.png)
 <br>
@@ -17,7 +17,7 @@ Demo images:
 
 
 <br><br><br>
-𝐼'𝓂 𝓂𝒶𝓀𝒾𝓃𝑔 𝓉𝒽𝒾𝓈 𝒽𝒶𝓃𝒹
+#I'm making this hand
 <br><br>
 ![](handdemo.png)
 <br>
