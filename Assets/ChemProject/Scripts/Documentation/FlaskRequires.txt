@@ -1,0 +1,6 @@
+Grabable object
+1. add FlaskRequires script
+2. add PressE prefabs and set position until it suits yourself
+3. setColor of outline
+Done...
+

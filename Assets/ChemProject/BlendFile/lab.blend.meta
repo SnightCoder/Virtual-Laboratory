@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5909e2134b4f0274ca75b348d13cf2cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _1_black_001
+    100002: _1_desktop-white_001
+    100004: _1_Gray-metal_001
+    100006: _1_green_000
+    100008: _2_black
+    100010: _2_desktop-white
+    100012: _2_Gray-metal
+    100014: _2_green_001
+    100016: Balck
+    100018: BOARD
+    100020: BOARD_001
+    100022: Cube
+    100024: Cube_001
+    100026: Cylinder
+    100028: GREEN
+    100030: Greentab
+    100032: //RootNode
+    100034: white_000
+    100036: whiteWALL_001
+    400000: _1_black_001
+    400002: _1_desktop-white_001
+    400004: _1_Gray-metal_001
+    400006: _1_green_000
+    400008: _2_black
+    400010: _2_desktop-white
+    400012: _2_Gray-metal
+    400014: _2_green_001
+    400016: Balck
+    400018: BOARD
+    400020: BOARD_001
+    400022: Cube
+    400024: Cube_001
+    400026: Cylinder
+    400028: GREEN
+    400030: Greentab
+    400032: //RootNode
+    400034: white_000
+    400036: whiteWALL_001
+    2100000: unnamed
+    2100002: Material_002
+    2100004: Material_004
+    2100006: Material_003
+    2100008: Material_006
+    2100010: Material
+    2300000: _1_black_001
+    2300002: _1_desktop-white_001
+    2300004: _1_Gray-metal_001
+    2300006: _1_green_000
+    2300008: _2_black
+    2300010: _2_desktop-white
+    2300012: _2_Gray-metal
+    2300014: _2_green_001
+    2300016: Balck
+    2300018: BOARD
+    2300020: BOARD_001
+    2300022: Cube
+    2300024: Cube_001
+    2300026: Cylinder
+    2300028: GREEN
+    2300030: Greentab
+    2300032: white_000
+    2300034: whiteWALL_001
+    3300000: _1_black_001
+    3300002: _1_desktop-white_001
+    3300004: _1_Gray-metal_001
+    3300006: _1_green_000
+    3300008: _2_black
+    3300010: _2_desktop-white
+    3300012: _2_Gray-metal
+    3300014: _2_green_001
+    3300016: Balck
+    3300018: BOARD
+    3300020: BOARD_001
+    3300022: Cube
+    3300024: Cube_001
+    3300026: Cylinder
+    3300028: GREEN
+    3300030: Greentab
+    3300032: white_000
+    3300034: whiteWALL_001
+    4300000: Cylinder
+    4300002: Greentab
+    4300004: Cube_001
+    4300006: white_000
+    4300008: Balck
+    4300010: BOARD_001
+    4300012: BOARD
+    4300014: GREEN
+    4300016: Cube
+    4300018: whiteWALL_001
+    4300020: _1_black_001
+    4300022: _1_desktop-white_001
+    4300024: _1_green_000
+    4300026: _1_Gray-metal_001
+    4300028: _2_Gray-metal
+    4300030: _2_green_001
+    4300032: _2_desktop-white
+    4300034: _2_black
+    6400000: _1_black_001
+    6400002: _1_desktop-white_001
+    6400004: _1_Gray-metal_001
+    6400006: _1_green_000
+    6400008: _2_black
+    6400010: _2_desktop-white
+    6400012: _2_Gray-metal
+    6400014: _2_green_001
+    6400016: Balck
+    6400018: BOARD
+    6400020: BOARD_001
+    6400022: Cube
+    6400024: Cube_001
+    6400026: Cylinder
+    6400028: GREEN
+    6400030: Greentab
+    6400032: white_000
+    6400034: whiteWALL_001
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &8396691809878782433 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 6380145632017073317}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8396691809878934915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8396691809878782435}
+  - component: {fileID: 8396691809882173829}
+  - component: {fileID: 8396691809880946629}
+  m_Layer: 0
+  m_Name: Lighter Silver
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8396691809878782435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8396691809878934915}
+  m_LocalRotation: {x: 0, y: 0.049249254, z: 0, w: 0.99878657}
+  m_LocalPosition: {x: -1.306, y: 0.014, z: 0.255}
+  m_LocalScale: {x: 1.2609522, y: 1.2609522, z: 1.2609522}
+  m_Children:
+  - {fileID: 8396691809878782433}
+  m_Father: {fileID: 8396691809878782437}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8396691809882173829
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8396691809878934915}
+  m_Mesh: {fileID: 4300000, guid: 2cab889fcb0764747bfc8fe00ab5acd4, type: 3}
+--- !u!23 &8396691809880946629
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8396691809878934915}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8c2eca0c54209694cb9283588d1d009f, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &8396691809878934917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8396691809878782437}
+  m_Layer: 0
+  m_Name: Lighter Silver
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8396691809878782437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8396691809878934917}
+  m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.578, y: 0, z: -0.059}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8396691809878782435}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6380145632017073317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8396691809878782435}
+    m_Modifications:
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.039099693
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0679
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475684906308, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174437475685187876, guid: bd7608d1ec20ea844997f552baa9d7e7,
+        type: 3}
+      propertyPath: m_Name
+      value: Particle System
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd7608d1ec20ea844997f552baa9d7e7, type: 3}
