@@ -8,7 +8,7 @@ This is not the source code, it's just cache, source code will be uploaded in th
 <br><br><br>
 # Demo images:
 <br><br>
-![](demo1.png | width=100)
+<img src="demo1.png" width="48">
 <br>
 
 <br><br>
